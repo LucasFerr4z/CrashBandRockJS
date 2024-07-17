@@ -102,7 +102,7 @@ node . (ou node main.js)
 
 e Feito, seu bot deve estar rodando!
 
-Realizado com ❤️ pela Comunidade.
+Realizado com ❤️ 
 
 Por favor, não retire a licença e mantenha os créditos neste projeto.
 
