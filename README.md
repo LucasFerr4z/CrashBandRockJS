@@ -2,7 +2,7 @@
 Meu Bot para  músicas para servers do discord, Obrigado pela atenção.
 
 
-Um código completo para baixar para um bot 🎧 de música
+Um código completo para baixar música🎧 
 
 Procurando um código para um bot de música? Este código totalmente aberto é feito para o seu projeto!
 
